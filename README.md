@@ -2,7 +2,7 @@
 A small application that connects to the webserver of a Comfort Panel and copies all files from a directory to a local directory.
 
 ## Prequesits
-- Firefox > V.115 must be installed on the system
+- Firefox >= V.115 must be installed on the system
 - [Geckodriver ](https://github.com/mozilla/geckodriver/releases) must be in the direcotry of the executable (mostly geckodriver-v0.33.0-win64.zip)
 
 ## Usage
